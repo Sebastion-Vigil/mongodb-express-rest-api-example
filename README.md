@@ -1,5 +1,5 @@
 # MongoDB and Express.js REST API sample application
- - Successful connection to my own Atlas MongoDB!
+ - Successful connection to my own Atlas
 This repository contains the sample application for the [MongoDB and Express.js REST API tutorial](https://www.mongodb.com/languages/express-mongodb-rest-api-tutorial).
 
 ## How To Run
